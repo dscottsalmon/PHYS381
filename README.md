@@ -6,3 +6,6 @@ Grades:
 Assignments - Didn't record
 
 Final Exam - 99.75/100
+
+Final Letter Grade:
+### A
